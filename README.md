@@ -1,4 +1,4 @@
-# compileit
+# CompileIt
 
 [![GitHub release](https://img.shields.io/github/release/Mike96angelo/compileit.svg?maxAge=21600)](https://github.com/Mike96Angelo/compileit)
 [![npm version](https://img.shields.io/npm/v/compileit.svg?maxAge=21600)](https://www.npmjs.com/package/compileit)
