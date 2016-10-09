@@ -71,7 +71,7 @@ var compiler = new compileit.Compiler({
 }, {
     modeFormater: function (a) {
         return a.green;
-    }, //
+    },
     charFormater: function (a) {
         return a.green.underline;
     },
